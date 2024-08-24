@@ -1,1 +1,3 @@
-java
+nose
+nose-cov
+beautifulsoup4
